@@ -1,0 +1,26 @@
+.copyright{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: end;
+  flex: 1;
+  margin-right: 40px;
+  margin-top: 40px;
+  margin-bottom: 36px;
+  font-family: Akrobat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 145%;
+  color: #101010;
+  &__wrapper{
+    text-align: right;
+  }
+  span{
+    display: block;
+  }
+  a{
+    text-decoration: none;
+    color: #101010;
+  }
+}
