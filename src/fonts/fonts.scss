@@ -1,0 +1,50 @@
+// @font-face {
+//   font-family: "Akrobat";
+//   src: url("/src/fonts/akrobat/Akrobat-Thin.otf") format("otf");
+//   font-weight: 100;
+//  }
+// @font-face {
+//   font-family: "Akrobat";
+//   src: url("/src/fonts/akrobat/Akrobat-ExtraLight.otf") format("otf");
+//   font-weight: 200;
+//  }
+// @font-face {
+//   font-family: "Akrobat";
+//   src: url("/src/fonts/akrobat/Akrobat-Light.otf") format("otf");
+//   font-weight: 300;
+//  }
+@font-face {
+  font-family: "Akrobat";
+  src: url("./akrobat/Akrobat-Regular.otf") format("otf"),
+       url('./akrobat/Akrobat-Regular.woff') format('woff'),
+       url('./akrobat/Akrobat-Regular.woff2') format('woff2');
+  font-weight: 500;
+ }
+// @font-face {
+//   font-family: "Akrobat";
+//   src: url("/src/fonts/akrobat/Akrobat-Thin.otf") format("otf");
+//   font-weight: thin;
+//  }
+// @font-face {
+//   font-family: "Akrobat";
+//   src: url("/src/fonts/akrobat/Akrobat-Thin.otf") format("otf");
+//   font-weight: thin;
+//  }
+// @font-face {
+//   font-family: "Akrobat";
+//   src: url("/src/fonts/akrobat/Akrobat-Thin.otf") format("otf");
+//   font-weight: thin;
+//  }
+// @font-face {
+//   font-family: "Akrobat";
+//   src: url("/src/fonts/akrobat/Akrobat-Thin.otf") format("otf");
+//   font-weight: thin;
+//  }
+@font-face {
+  font-family: 'Geniral';
+  src: url('./Neue_soviet/Neue_soviet.ttf') format('truetype'),
+       url('./Neue_soviet/AnyConv.com__Neue_soviet.woff') format('woff'),
+       url('./Neue_soviet/AnyConv.com__Neue_soviet.woff2') format('woff2');
+  font-style: normal;
+  font-weight: normal;
+}
