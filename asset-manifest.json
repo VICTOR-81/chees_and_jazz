@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd27d944.css",
+    "main.js": "/static/js/main.0a6a1c3a.js",
+    "static/js/787.8ae6c3e6.chunk.js": "/static/js/787.8ae6c3e6.chunk.js",
+    "static/media/photo-Jordan-Rakei.png": "/static/media/photo-Jordan-Rakei.91901a8c74f82b634c79.png",
+    "static/media/Akrobat-Regular.woff2": "/static/media/Akrobat-Regular.5478f0e3f023f32a7912.woff2",
+    "static/media/Akrobat-Regular.otf": "/static/media/Akrobat-Regular.12827ce5e0d9afebcc19.otf",
+    "static/media/Neue_soviet.ttf": "/static/media/Neue_soviet.8f1672ba4367d75ab7b8.ttf",
+    "static/media/Akrobat-Regular.woff": "/static/media/Akrobat-Regular.9cb5b5112bf484e6890d.woff",
+    "static/media/AnyConv.com__Neue_soviet.woff2": "/static/media/AnyConv.com__Neue_soviet.1f5ec3498abf3bc321b2.woff2",
+    "static/media/AnyConv.com__Neue_soviet.woff": "/static/media/AnyConv.com__Neue_soviet.3fede69883b1c38f6210.woff",
+    "static/media/vk.svg": "/static/media/vk.261dd92173d3c93fb2101180d56a8f62.svg",
+    "static/media/insta.svg": "/static/media/insta.bbd8abc4aba4c7f451a9161f21c34f18.svg",
+    "static/media/youtube.svg": "/static/media/youtube.a8b75b9e64cf1914d2cb3e303f3c037f.svg",
+    "index.html": "/index.html",
+    "static/media/menu-dark-icon.svg": "/static/media/menu-dark-icon.0b1f4268f8546c3c3e6e6dbb3c013a4c.svg",
+    "static/media/big-arrow-right.svg": "/static/media/big-arrow-right.ba5a77dba90af02ba850ce018a144477.svg",
+    "static/media/big-arrow-left.svg": "/static/media/big-arrow-left.47fbb4747365ea98eb4ad8778472626f.svg",
+    "static/media/menu-arrow.svg": "/static/media/menu-arrow.37e958d1b2be1224096903115fce0385.svg",
+    "main.bd27d944.css.map": "/static/css/main.bd27d944.css.map",
+    "main.0a6a1c3a.js.map": "/static/js/main.0a6a1c3a.js.map",
+    "787.8ae6c3e6.chunk.js.map": "/static/js/787.8ae6c3e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd27d944.css",
+    "static/js/main.0a6a1c3a.js"
+  ]
+}
