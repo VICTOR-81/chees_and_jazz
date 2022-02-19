@@ -2,7 +2,7 @@
 	"name": "chess_and_jazz",
 	"version": "0.1.0",
 	"private": true,
-	"homapage": "https://victor-81.github.io/chees_and_jazz/",
+	"homepage": "https://victor-81.github.io/chees_and_jazz/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.2",
 		"@testing-library/react": "^12.1.2",
