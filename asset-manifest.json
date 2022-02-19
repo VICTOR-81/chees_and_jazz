@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd27d944.css",
+    "main.css": "/static/css/main.fef9db75.css",
     "main.js": "/static/js/main.0a6a1c3a.js",
     "static/js/787.8ae6c3e6.chunk.js": "/static/js/787.8ae6c3e6.chunk.js",
     "static/media/photo-Jordan-Rakei.png": "/static/media/photo-Jordan-Rakei.91901a8c74f82b634c79.png",
@@ -18,12 +18,12 @@
     "static/media/big-arrow-right.svg": "/static/media/big-arrow-right.ba5a77dba90af02ba850ce018a144477.svg",
     "static/media/big-arrow-left.svg": "/static/media/big-arrow-left.47fbb4747365ea98eb4ad8778472626f.svg",
     "static/media/menu-arrow.svg": "/static/media/menu-arrow.37e958d1b2be1224096903115fce0385.svg",
-    "main.bd27d944.css.map": "/static/css/main.bd27d944.css.map",
+    "main.fef9db75.css.map": "/static/css/main.fef9db75.css.map",
     "main.0a6a1c3a.js.map": "/static/js/main.0a6a1c3a.js.map",
     "787.8ae6c3e6.chunk.js.map": "/static/js/787.8ae6c3e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd27d944.css",
+    "static/css/main.fef9db75.css",
     "static/js/main.0a6a1c3a.js"
   ]
 }
