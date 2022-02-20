@@ -11,9 +11,10 @@
     flex-direction: column;
     row-gap: 19px;
     align-items: center;
+    transform: scaleY(-1);
     span{
       writing-mode: vertical-lr;
-      transform: scale(-1);
+      transform: scaleX(-1);
       font-family: 'Akrobat';
       font-style: normal;
       font-weight: 500;
