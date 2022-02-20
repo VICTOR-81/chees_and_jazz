@@ -6,7 +6,7 @@ import vector10 from '../../assets/images/icons/Vector 10.svg'
 
 function LectureHall() {
 
-  return(
+  return (
 
     <div className="lecturehall">
       <div className="container">
@@ -14,25 +14,25 @@ function LectureHall() {
           <Sidebar />
           <LectureHallBox />
           <div className="lecturehall__next">
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
-          <img src={vector10} alt="" />
-          <span>гастрономия</span>
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
+            <img src={vector10} alt="" />
+            <span>гастрономия</span>
           </div>
         </div>
       </div>

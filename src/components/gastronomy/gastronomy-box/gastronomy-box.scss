@@ -1,9 +1,10 @@
-.lecturehallbox{
+.gastronomybox{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   margin: 40px;
   margin-top: 0;
+  flex: 1;
   &__title{
     width: fit-content;
     font-family: 'Geniral';
@@ -19,7 +20,7 @@
     animation: scroll-left 10s infinite linear;
     &::after{
       position: absolute;
-      content: 'лекторий лекторий\a0';
+      content: 'Гастрономия Гастрономия\a0';
     }
     &-inner{
       overflow: hidden;
@@ -27,33 +28,13 @@
       width: 100%;
     }
     &-wrapper{
+      width: 100%;
       display: flex;
       justify-content: space-between;
       margin-bottom: -50px;
       div:nth-child(2){
         margin-top: 40px;
       }
-    }
-  }
-  &__schedule{
-    display: flex;
-    justify-content: space-between;
-    padding-top: 40px;
-    padding-bottom: 30px;
-    border-top: 1px solid #BEBEBE;
-    &-date{
-      width: 160px;
-      font-family: 'Akrobat';
-      font-style: normal;
-      font-weight: 600;
-      font-size: 20px;
-      line-height: 120%;
-      text-transform: uppercase;
-      color: #101010;
-    }
-    &-speakers{
-      display: flex;
-      gap: 40px;
     }
   }
 }

@@ -3,7 +3,7 @@
   column-gap: 15px;
   width: 240px;
   &__avatar{
-    width: 45px;
+    min-width: 45px;
     height: 45px;
     border-radius: 50%;
     overflow: hidden;
