@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chees_and_jazz/static/css/main.535ec7c2.css",
-    "main.js": "/chees_and_jazz/static/js/main.74ea7341.js",
+    "main.css": "/chees_and_jazz/static/css/main.ffee58ec.css",
+    "main.js": "/chees_and_jazz/static/js/main.8983a9c7.js",
     "static/js/787.8ae6c3e6.chunk.js": "/chees_and_jazz/static/js/787.8ae6c3e6.chunk.js",
     "static/media/photo-Jordan-Rakei.png": "/chees_and_jazz/static/media/photo-Jordan-Rakei.91901a8c74f82b634c79.png",
     "static/media/Akrobat-Black.woff2": "/chees_and_jazz/static/media/Akrobat-Black.d0d3793e5e7175007e15.woff2",
@@ -36,15 +36,16 @@
     "index.html": "/chees_and_jazz/index.html",
     "static/media/youtube.svg": "/chees_and_jazz/static/media/youtube.a8b75b9e64cf1914d2cb3e303f3c037f.svg",
     "static/media/menu-dark-icon.svg": "/chees_and_jazz/static/media/menu-dark-icon.0b1f4268f8546c3c3e6e6dbb3c013a4c.svg",
+    "static/media/Vector 10.svg": "/chees_and_jazz/static/media/Vector 10.ef0fce17a880bf51c4b541b61c7985fe.svg",
     "static/media/big-arrow-right.svg": "/chees_and_jazz/static/media/big-arrow-right.ba5a77dba90af02ba850ce018a144477.svg",
     "static/media/big-arrow-left.svg": "/chees_and_jazz/static/media/big-arrow-left.47fbb4747365ea98eb4ad8778472626f.svg",
     "static/media/menu-arrow.svg": "/chees_and_jazz/static/media/menu-arrow.37e958d1b2be1224096903115fce0385.svg",
-    "main.535ec7c2.css.map": "/chees_and_jazz/static/css/main.535ec7c2.css.map",
-    "main.74ea7341.js.map": "/chees_and_jazz/static/js/main.74ea7341.js.map",
+    "main.ffee58ec.css.map": "/chees_and_jazz/static/css/main.ffee58ec.css.map",
+    "main.8983a9c7.js.map": "/chees_and_jazz/static/js/main.8983a9c7.js.map",
     "787.8ae6c3e6.chunk.js.map": "/chees_and_jazz/static/js/787.8ae6c3e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.535ec7c2.css",
-    "static/js/main.74ea7341.js"
+    "static/css/main.ffee58ec.css",
+    "static/js/main.8983a9c7.js"
   ]
 }
