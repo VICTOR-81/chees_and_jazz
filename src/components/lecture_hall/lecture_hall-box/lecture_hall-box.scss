@@ -16,7 +16,7 @@
     color: #101010;
     white-space: nowrap;
     position: relative;
-    animation: scroll-left 10s infinite linear;
+    animation: scroll-left 25s infinite linear;
     &::after{
       position: absolute;
       content: 'лекторий лекторий\a0';
