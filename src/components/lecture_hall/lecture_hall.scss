@@ -1,0 +1,27 @@
+.lecturehall{
+  &__wrapper{
+    height: 100vh;
+    display: flex;
+  }
+  &__next{
+    min-width: 40px;
+    border-left: 0.5px solid #BEBEBE;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    row-gap: 19px;
+    align-items: center;
+    span{
+      writing-mode: vertical-lr;
+      transform: scale(-1);
+      font-family: 'Akrobat';
+      font-style: normal;
+      font-weight: 500;
+      font-size: 12px;
+      line-height: 14px;
+      letter-spacing: 0.01em;
+      text-transform: uppercase;
+      color: #101010;
+    }
+  }
+}
