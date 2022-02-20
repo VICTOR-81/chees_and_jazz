@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chees_and_jazz/static/css/main.ffee58ec.css",
+    "main.css": "/chees_and_jazz/static/css/main.b417f8da.css",
     "main.js": "/chees_and_jazz/static/js/main.8983a9c7.js",
     "static/js/787.8ae6c3e6.chunk.js": "/chees_and_jazz/static/js/787.8ae6c3e6.chunk.js",
     "static/media/photo-Jordan-Rakei.png": "/chees_and_jazz/static/media/photo-Jordan-Rakei.91901a8c74f82b634c79.png",
@@ -40,12 +40,12 @@
     "static/media/big-arrow-right.svg": "/chees_and_jazz/static/media/big-arrow-right.ba5a77dba90af02ba850ce018a144477.svg",
     "static/media/big-arrow-left.svg": "/chees_and_jazz/static/media/big-arrow-left.47fbb4747365ea98eb4ad8778472626f.svg",
     "static/media/menu-arrow.svg": "/chees_and_jazz/static/media/menu-arrow.37e958d1b2be1224096903115fce0385.svg",
-    "main.ffee58ec.css.map": "/chees_and_jazz/static/css/main.ffee58ec.css.map",
+    "main.b417f8da.css.map": "/chees_and_jazz/static/css/main.b417f8da.css.map",
     "main.8983a9c7.js.map": "/chees_and_jazz/static/js/main.8983a9c7.js.map",
     "787.8ae6c3e6.chunk.js.map": "/chees_and_jazz/static/js/787.8ae6c3e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffee58ec.css",
+    "static/css/main.b417f8da.css",
     "static/js/main.8983a9c7.js"
   ]
 }
