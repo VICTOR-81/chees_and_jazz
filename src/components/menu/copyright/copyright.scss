@@ -13,8 +13,10 @@
   font-size: 14px;
   line-height: 145%;
   color: #101010;
+  min-width: 160px;
   &__wrapper{
     text-align: right;
+    width: 100%;
   }
   span{
     display: block;

@@ -1,6 +1,7 @@
 .artistprofile{
   display: flex;
   height: 100%;
+  flex: 1;
   &__card{
     flex: 1;
     padding: 40px;

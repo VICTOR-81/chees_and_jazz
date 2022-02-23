@@ -59,6 +59,24 @@ function GastronomyBox() {
         <img src={vector10} alt="" />
         <span>прошедшие события</span>
         <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
+        <span>прошедшие события</span>
+        <img src={vector10} alt="" />
       </div>
     </div>
 

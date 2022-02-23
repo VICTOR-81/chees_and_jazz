@@ -3,9 +3,10 @@
     height: 100vh;
     display: flex;
     background-color: #F4F3F3;
+    justify-content: space-between;
   }
   &__next{
-    min-width: 40px;
+    width: 40px;
     border-left: 0.5px solid #BEBEBE;
     overflow: hidden;
     display: flex;
