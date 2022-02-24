@@ -5,6 +5,7 @@
   margin: 40px;
   margin-top: 0;
   flex: 1;
+  overflow: hidden;
   &__title{
     width: fit-content;
     font-family: 'Geniral';
@@ -43,7 +44,7 @@
     padding-bottom: 30px;
     border-top: 1px solid #BEBEBE;
     &-date{
-      width: 160px;
+      min-width: 160px;
       font-family: 'Akrobat';
       font-style: normal;
       font-weight: 600;
@@ -55,6 +56,7 @@
     &-speakers{
       display: flex;
       gap: 40px;
+      justify-content: end;
     }
   }
 }
