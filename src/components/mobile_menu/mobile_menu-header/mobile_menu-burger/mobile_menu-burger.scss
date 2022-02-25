@@ -20,10 +20,10 @@
       transform-origin: right;
     }
   }
-  &:hover .mobilemenu__burger-item:first-child{
+  &:hover .animation__burger:first-child{
     animation: closebtn1 .2s linear forwards;
   }
-  &:hover .mobilemenu__burger-item:last-child{
+  &:hover .animation__burger:last-child{
     animation: closebtn2 .2s linear forwards;
   }
 }

@@ -6,8 +6,8 @@ function MobileMenuBurger() {
   return(
 
     <div className="mobilemenu__burger">
-      <div className="mobilemenu__burger-item"></div>
-      <div className="mobilemenu__burger-item"></div>
+      <div className="mobilemenu__burger-item animation__burger"></div>
+      <div className="mobilemenu__burger-item animation__burger"></div>
     </div>
 
   );
