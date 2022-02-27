@@ -1,4 +1,5 @@
 import React from "react";
+import MobileMenuHeader from "../../mobile_menu/mobile_menu-header/MobileMenuHeader";
 import './mobile_header.scss'
 
 function MobileHeader() {
@@ -6,7 +7,7 @@ function MobileHeader() {
   return(
 
     <div className="mobileheader">
-      
+      <MobileMenuHeader />
     </div>
 
   );
