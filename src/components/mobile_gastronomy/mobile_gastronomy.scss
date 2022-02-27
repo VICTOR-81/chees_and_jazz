@@ -1,5 +1,5 @@
 .mobilegastronomy{
-  background:-color #F4F3F3;
+  background-color: #F4F3F3;
   .gastronomybox__title{
     font-size: 160px;
     line-height: 90%;
@@ -32,9 +32,10 @@
   }
   &__btn{
     border-top: 0.5px solid #BEBEBE;
+    padding: 32px 0 46px;
     button{
       display: block;
-      margin: 32px auto 46px;
+      margin: 0 auto;
       background-color: transparent;
       padding: 15px 54px;
       border: 1px solid #727272;
