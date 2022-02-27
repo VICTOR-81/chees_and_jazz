@@ -5,6 +5,7 @@ import LectureHall from "./components/lecture_hall/LectureHall";
 import Gastronomy from './components/gastronomy/Gastronomy';
 import MobileMenu from './components/mobile_menu/MobileMenu';
 import MobileArtistPage from './components/mobile_artist_page/MobileArtistPage';
+import MobileGastronomy from './components/mobile_gastronomy/MobileGastronomy';
 
 function App() {
 	return (
@@ -20,6 +21,7 @@ function App() {
 			<>
 				<MobileMenu />
 				<MobileArtistPage />
+				<MobileGastronomy />
 			</>
 		)}
 	</div>);
