@@ -7,6 +7,7 @@ import MobileMenu from './components/mobile_menu/MobileMenu';
 import MobileArtistPage from './components/mobile_artist_page/MobileArtistPage';
 import MobileGastronomy from './components/mobile_gastronomy/MobileGastronomy';
 import MobileLectureHall from './components/mobile_lecture_hall/MobileLectureHall';
+import MobileViewer from './components/mobile_viewer/MobileViewer';
 
 function App() {
 	return (
@@ -24,6 +25,7 @@ function App() {
 				<MobileArtistPage />
 				<MobileGastronomy />
 				<MobileLectureHall />
+				<MobileViewer />
 			</>
 		)}
 	</div>);
