@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chees_and_jazz/static/css/main.b25d5f99.css",
-    "main.js": "/chees_and_jazz/static/js/main.f56bc9d3.js",
+    "main.css": "/chees_and_jazz/static/css/main.12f0d006.css",
+    "main.js": "/chees_and_jazz/static/js/main.d9808760.js",
     "static/js/787.8ae6c3e6.chunk.js": "/chees_and_jazz/static/js/787.8ae6c3e6.chunk.js",
     "static/media/photo-Jordan-Rakei.png": "/chees_and_jazz/static/media/photo-Jordan-Rakei.91901a8c74f82b634c79.png",
     "static/media/Akrobat-Black.woff2": "/chees_and_jazz/static/media/Akrobat-Black.d0d3793e5e7175007e15.woff2",
@@ -30,6 +30,7 @@
     "static/media/Akrobat-Regular.woff": "/chees_and_jazz/static/media/Akrobat-Regular.9cb5b5112bf484e6890d.woff",
     "static/media/Akrobat-Thin.woff": "/chees_and_jazz/static/media/Akrobat-Thin.3de4991ad9a9208a3528.woff",
     "static/media/AnyConv.com__Neue_soviet.woff2": "/chees_and_jazz/static/media/AnyConv.com__Neue_soviet.1f5ec3498abf3bc321b2.woff2",
+    "static/media/viewer-img1.png": "/chees_and_jazz/static/media/viewer-img1.7112891e0dec94cf35d4.png",
     "static/media/AnyConv.com__Neue_soviet.woff": "/chees_and_jazz/static/media/AnyConv.com__Neue_soviet.3fede69883b1c38f6210.woff",
     "static/media/vk.svg": "/chees_and_jazz/static/media/vk.261dd92173d3c93fb2101180d56a8f62.svg",
     "static/media/insta.svg": "/chees_and_jazz/static/media/insta.bbd8abc4aba4c7f451a9161f21c34f18.svg",
@@ -43,12 +44,12 @@
     "static/media/big-arrow-right.svg": "/chees_and_jazz/static/media/big-arrow-right.ba5a77dba90af02ba850ce018a144477.svg",
     "static/media/big-arrow-left.svg": "/chees_and_jazz/static/media/big-arrow-left.47fbb4747365ea98eb4ad8778472626f.svg",
     "static/media/menu-arrow.svg": "/chees_and_jazz/static/media/menu-arrow.37e958d1b2be1224096903115fce0385.svg",
-    "main.b25d5f99.css.map": "/chees_and_jazz/static/css/main.b25d5f99.css.map",
-    "main.f56bc9d3.js.map": "/chees_and_jazz/static/js/main.f56bc9d3.js.map",
+    "main.12f0d006.css.map": "/chees_and_jazz/static/css/main.12f0d006.css.map",
+    "main.d9808760.js.map": "/chees_and_jazz/static/js/main.d9808760.js.map",
     "787.8ae6c3e6.chunk.js.map": "/chees_and_jazz/static/js/787.8ae6c3e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b25d5f99.css",
-    "static/js/main.f56bc9d3.js"
+    "static/css/main.12f0d006.css",
+    "static/js/main.d9808760.js"
   ]
 }
