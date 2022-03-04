@@ -80,12 +80,17 @@ body {
   width: 25%;
   height: 100%;
   // opacity: 0.4;
-  border: 1px solid #262626;
+  img{
+    border: 1px solid #262626;
+
+  }
 }
 
 .mySwiper .swiper-slide-thumb-active {
   // opacity: 1;
-  border: 1px solid #f4f3f3;
+  img{
+    border: 1px solid #f4f3f3;
+  }
 }
 
 .swiper-slide img {
